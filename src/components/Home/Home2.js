@@ -18,37 +18,29 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              I'm a seasoned frontend developer with a primary focus on utilizing 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> React.js and Next.js. </b>
+              </i> 
+              <br />
+              <br />
+              My expertise lies in crafting responsive and dynamic user interfaces using these technologies. 
+              <br />
+              <br />
+              When it comes to styling, I tend to choose between
+              <i>
+                <b className="purple"> Bootstrap and Tailwind CSS &nbsp; </b> 
+              </i> 
+              based on the project's specific requirements
+              <i>
+                <b className="purple">Web Technologies and Products. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              With a wealth of experience and skills at my disposal, I am committed to delivering optimal and aesthetically pleasing user experiences through the web applications I develop. 
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              If there's a project or collaboration that could benefit from my frontend expertise, I'm eager to explore and contribute. Let's connect and create something exceptional together!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
