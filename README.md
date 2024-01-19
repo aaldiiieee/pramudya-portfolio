@@ -1,6 +1,6 @@
 <h2 align="center">
   Pramudya Portfolio🚀<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Demo</a>
+  <a href="https://reytech.vercel.app/" target="_blank">https://reytech.vercel.app/</a>
 </h2>
 
 <br/>
